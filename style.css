@@ -14,10 +14,6 @@ header {
     color: #fff;
     padding: 20px;
 }
-audio{
-    height: 10px;
-    width: 10px;
-}
 nav {
     display: flex;
     justify-content: space-between;
